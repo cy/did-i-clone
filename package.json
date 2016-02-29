@@ -1,0 +1,22 @@
+{
+  "name": "did-i-clone",
+  "version": "0.0.1",
+  "description": "find local path of specified git remote url",
+  "main": "bin.js",
+  "bin": {
+    "did-i-clone": "bin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "git",
+    "tool"
+  ],
+  "author": "Christine Yu <christine.tc.yu@gmail.com> (http://christine-yu.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "shelljs": "^0.6.0"
+  }
+}
