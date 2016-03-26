@@ -6,6 +6,10 @@ motiviation
 ===========
 because I init/clone in nested directories and then I CAN'T FIND MY OWN REPOS
 
+installation
+============
+```npm install did-i-clone```
+
 usage
 =====
 ```did-i-clone https://github.com/someone/thatrepoyoucantfind.git```
